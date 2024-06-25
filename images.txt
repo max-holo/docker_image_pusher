@@ -1,4 +1,4 @@
 minio
 #仓库地址，支持私库
-minio/minio:RELEASE.2023-03-20T20-16-18Z
+quay.io/minio/minio:RELEASE.2023-03-20T20-16-18Z
 #支持指定架构
