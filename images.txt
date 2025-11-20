@@ -1,1 +1,1 @@
-doccano/doccano:latest
+redis/redis:latest
